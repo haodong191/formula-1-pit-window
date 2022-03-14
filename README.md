@@ -3,7 +3,7 @@ Python app to caculate the optimal time window to pit and Formula 1 race car. Th
 ## Resources
 - circuits.csv
 * 1
-** 2
+  * 2
 - constructor_results.csv
 - constructor_standings.csv
 - constructors.csv
